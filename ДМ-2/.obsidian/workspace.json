@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "d7ebe12facfda1b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c320c6162612b4c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "244159f26fdf9491",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83bd15314a50eea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "384608f9e307c208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f97fa5d2d685d03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9c9380c877af76b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2065fc39e886a19",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97a923422971136a",
+    "type": "split",
+    "children": [
+      {
+        "id": "54b74d955da64117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734bbabdf2ad9cdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01c4387e40ef810b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efdefd2776e0dd95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1150e6aacbafa804",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "244159f26fdf9491",
+  "lastOpenFiles": [
+    "Билеты_теория/Регулярные события и выражения. Обобщенные источники. Представимость событий в автоматах.md",
+    "Нерегулярное событие.md",
+    "Билеты_теория/Структурный автомат. Операции суперпозиции. Σ-замыкание.md"
+  ]
+}
