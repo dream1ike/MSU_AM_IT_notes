@@ -42,6 +42,6 @@ P.S Каждую заметку делал человек, поэтому есл
 
 # Работали над проектом
 М1-22 Байдадаев Темирхон ([dream1ike](https://github.com/dream1ike))
-М1-22 Караваев Ярослав (**[ariceew](https://github.com/ariceew)**)
+М1-22 Караваев Ярослав ([reersoti](https://github.com/reersoti))
 
 
